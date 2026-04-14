@@ -5,3 +5,6 @@
 # VENV
 /venv
 
+# Debug photos
+*.png
+

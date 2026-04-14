@@ -1,0 +1,13 @@
+{
+    "drop_container":     { "SELECT": "div.c-bZNrxE.c-bZNrxE-iVNpjU-css" },
+    "item":               { "SELECT": "div.c-fuYhmF.c-fuYhmF-iPJLV-css" },
+    "quantity":           { "SELECT": "div.c-bZNrxE.c-bZNrxE-ilkRvoX-css" },
+    "add_to_cart":        { "SELECT": "button.c-bYwOQu.c-bYwOQu-dWXYMB-size-large.c-bYwOQu-gTzoIO-shape-rounded.c-bYwOQu-iczyIrr-css" },
+    "checkout":           { "SELECT": "button.c-cAlLHX.c-cAlLHX-idzJAYQ-css" },
+    "confirm_checkout":   { "SELECT": "a.c-bYwOQu.c-bYwOQu-dWXYMB-size-large.c-bYwOQu-iHjjLf-shape-square.c-bYwOQu-ihuiYjp-css" },
+    "phone_input":        { "SELECT": "input" },
+    "verification":       { "SELECT": "div.bg-success9.text-white.flex.items-center.justify-center.rounded-full.h-5.w-5.shrink-0.transition-all" },
+    "confirm_time":       { "SELECT": "button.c-bYwOQu.c-bYwOQu-dWXYMB-size-large.c-bYwOQu-iHjjLf-shape-square.c-bYwOQu-ikAydxt-css" },
+    "stripe_iframe":      { "SELECT": "iframe[title='Secure payment input frame']" },
+    "submit":             { "SELECT": "button.c-bYwOQu.c-bYwOQu-dWXYMB-size-large.c-bYwOQu-iHjjLf-shape-square.c-bYwOQu-ikAydxt-css.grow" }
+}
